@@ -7,6 +7,6 @@ int main(void) {
   cout << "Hello, Jenkins\n";
   cout << "I have successfully built and run\n";
   cout << "PES2UG21CS505- SHREYA MANDI";
-  cout << "PES2UG21CS505- changes made";
+  cout << "PES2UG21CS505- changes changed";
   return 0;
 }
